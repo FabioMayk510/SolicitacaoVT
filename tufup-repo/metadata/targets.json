@@ -2,12 +2,12 @@
  "signatures": [
   {
    "keyid": "4c5c5ccf1e67c8308106c0ee89f3e1be7d8cd637497f6899c477520f5d950f76",
-   "sig": "94fd6d72f96babf0ce08596bc8cc3dff03e2f597a4bbde7080cc454f1df9b80b2630e249f7fdb85c6d7e878bd5d6720888be717261003435e520511ad7a16f04"
+   "sig": "b1cfce9995d138527d82c15a068d89ab1a9fb1f4030086c0be0027b204721c36e736a7f56e61a27d29aded39a9effdcd22bdb78824297fef8f04cc18acac0902"
   }
  ],
  "signed": {
   "_type": "targets",
-  "expires": "2027-01-29T14:44:54Z",
+  "expires": "2027-01-29T14:56:31Z",
   "spec_version": "1.0.31",
   "targets": {
    "SolicitacaoVT-1.3.0.tar.gz": {
@@ -18,9 +18,9 @@
      "user": null
     },
     "hashes": {
-     "sha256": "7d8d50bec01abe52cb6318e4e748352c8c091465cc8f0c8ac1a092dc0815827e"
+     "sha256": "21b31e8cf7e787fba35d4a34333a0ccb6a845090f284941ed5e66fd86db857a0"
     },
-    "length": 52637471
+    "length": 52638994
    }
   },
   "version": 1
