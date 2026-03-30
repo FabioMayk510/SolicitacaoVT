@@ -2,62 +2,14 @@
  "signatures": [
   {
    "keyid": "4c5c5ccf1e67c8308106c0ee89f3e1be7d8cd637497f6899c477520f5d950f76",
-   "sig": "b72f4dc5e623948a6fc5729e67d3b843241d761223b8008ea6b3bb2bda48791380ab53979756876481f26f792808604a0e8a8ba28f0f2fd999d4d2914cb4130b"
+   "sig": "de9c8e27d2a66add649c0708eba807314437d81212be3f07b8638deb4fc19819636baf2d7a40efe79f1f34705355baf8730f1659d6bf7859743c07d8d7b45608"
   }
  ],
  "signed": {
   "_type": "targets",
-  "expires": "2027-03-30T12:51:06Z",
+  "expires": "2027-03-30T13:00:18Z",
   "spec_version": "1.0.31",
   "targets": {
-   "SolicitacaoVT-1.3.1.tar.gz": {
-    "custom": {
-     "tufup": {
-      "required": false
-     },
-     "user": null
-    },
-    "hashes": {
-     "sha256": "22a69ed59f71ec9251d9ec03dd71fd54727755e5da6d51b1652cc67e70f198e8"
-    },
-    "length": 52638710
-   },
-   "SolicitacaoVT-1.3.2.tar.gz": {
-    "custom": {
-     "tufup": {
-      "required": false
-     },
-     "user": null
-    },
-    "hashes": {
-     "sha256": "9839a84d40a71cf3e554e1dfa64ce240737f3d439b8c1dc27fafb4a321bb680f"
-    },
-    "length": 52640340
-   },
-   "SolicitacaoVT-1.3.3.tar.gz": {
-    "custom": {
-     "tufup": {
-      "required": false
-     },
-     "user": null
-    },
-    "hashes": {
-     "sha256": "e3fffdf95f9889068ddb39d31b518372ad18e74a96dc04c65a72aefcea5aefd5"
-    },
-    "length": 70147807
-   },
-   "SolicitacaoVT-1.3.4.tar.gz": {
-    "custom": {
-     "tufup": {
-      "required": false
-     },
-     "user": null
-    },
-    "hashes": {
-     "sha256": "3354b894f8e91f236cd400038a1c026afcbb6d1b48a9c311899155c0a2552a5b"
-    },
-    "length": 70149655
-   },
    "SolicitacaoVT-1.3.6.tar.gz": {
     "custom": {
      "tufup": {
@@ -66,11 +18,11 @@
      "user": null
     },
     "hashes": {
-     "sha256": "596a11725f861a7e70c65ac42563fd85426eda5aea2b290480f3076632e66078"
+     "sha256": "02c5b0c545ff1edd0a1ed57247aa70e65c97288b9cedec6f2ac9f378b8329d10"
     },
-    "length": 70149663
+    "length": 70148224
    }
   },
-  "version": 5
+  "version": 1
  }
 }
